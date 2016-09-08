@@ -7,3 +7,6 @@ Git is free software distributed under the GPL.
 append java
 
 Git has a mutable index called stage.
+
+456
+Creating a new branch is quick.
